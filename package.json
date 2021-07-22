@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayonrakib/ShoppingList/issues"
   },
-  "homepage": "https://github.com/ayonrakib/ShoppingList#readme"
+  "homepage": "https://github.com/ayonrakib/ShoppingList#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
